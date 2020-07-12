@@ -8,12 +8,12 @@ Hi there 👋
 
 ### Backend engineer who want to build system for myself.
 
--   🔭 I’m currently using typescript, node.js, nest.js and react.js.
--   🌱 I want to develop something fun and useful.
+-   🔭 I’m building the system using TYPESCRIPT(JAVASCRIPT).
+-   🌱 I want to DEVELOP something FUN and USEFUL.
 
 ### Interest
 
 -   Language : Typescript, Javascript
--   Backend : node.js, nest.js, typeorm,
+-   Backend : node.js, express.js, nest.js, typeorm
 -   Frontend : react.js, redux, mobx, hooks
 -   DevOps : AWS (EC2, ECS, Lambda, Cloudfront, RDS, ...), Heroku, Netlify, ...
