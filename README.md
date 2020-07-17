@@ -5,7 +5,7 @@ Hi there 👋
 
 
 
--   🔭 I’m building the system using TYPESCRIPT(JAVASCRIPT).
+-  ⚒️ I’m building the system using TYPESCRIPT(JAVASCRIPT).
 -   🌱 I want to DEVELOP something FUN and USEFUL.
 
 ### Key skills
