@@ -3,6 +3,8 @@ Hi there 👋
 
 ### Backend Developer [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftkhwang)](https://hits.seeyoufarm.com)
 
+[![tkhwang's github stats](https://github-readme-stats.vercel.app/api?username=tkhwang&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 -  ⚒️ I’m building the system using TYPESCRIPT(JAVASCRIPT).
