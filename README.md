@@ -6,9 +6,9 @@
 
 ### Key skills
 
-- Language : Typescript, Javascript, Studying (Java, Kotlin)
+- Language : Typescript, Javascript, and now studying (Java, Kotlin)
 - Backend : nest.js, GraphQL, typeorm, Studying (Spring and Spring Boot)
-- Frontend : react.js, hooks, redux, mobx
+- Frontend : react.js, hooks, redux, mobx, and now studying (Vue.js)
 - DevOps : AWS (EC2, ECS, Lambda, Cloudfront, RDS, ...), Heroku, Netlify, ...
 - Security (mobile and iot device security) and Blockchain (bitcoin, etherium), ...
 
