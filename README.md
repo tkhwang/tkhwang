@@ -2,7 +2,7 @@
 
 - ⚒️ I’m building the system using TYPESCRIPT(JAVASCRIPT).
 - 🌱 I want to DEVELOP something FUN and USEFUL.
-- 🔥 Now I'm studying Java, Kotlin and Spring Boot.
+- 🔥 Now I'm studying the basic again : data structure, algorithm and unit testing to make my code better.
 
 ### Key skills
 
