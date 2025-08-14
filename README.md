@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm tkhwang</h1>
 
-- ⚒️ I’m building the system using TYPESCRIPT(JAVASCRIPT).
+- ⚒️ I’m building the system using TYPESCRIPT(JAVASCRIPT) and AI.
 - 🌱 I want to DEVELOP something FUN and USEFUL.
-- 🔥 Now I'm studying the basic again : data structure, algorithm and unit testing to make my code better.
+- 🔥 Now I'm studying AI, especially AI agent and applications.
 
 ### Key skills
 
-- Language : Typescript, Javascript, and now studying (Java, Kotlin)
+- Language : Typescript, Javascript, and Python
+- AI : langchain, langgraph, mastra.ai, CrewAI
 - Backend : Nest.js, GraphQL, typeorm, express.js
-- Frontend : react.js, hooks, react-query, jotai, redux, mobx
+- Frontend : react.js, next.js, hooks, react-query
 - DevOps : AWS (EC2, ECS, Lambda, Cloudfront, RDS, ...), Heroku, Netlify, ...
 - Security (mobile and iot device security) and Blockchain (bitcoin, etherium), ...
 
