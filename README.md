@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm tkhwang</h1>
 
-- ⚒️ I’m building the system using TYPESCRIPT(JAVASCRIPT) and AI.
+TypeScript fullstack developer : backend-focused, frontend-curious.
+
 - 🌱 I want to DEVELOP something FUN and USEFUL.
-- 🔥 Now I'm studying AI, especially AI agent and applications.
+- 🏛️ Passionate about **Clean Architecture**, **Domain-Driven Design (DDD)**, and **design patterns**.
+- 🤖 Recently, deeply interested in **AI Engineering** and **building AI Agents**.
 
 ### Key skills
 
-- Language : Typescript, Javascript, and Python
-- AI : langchain, langgraph, mastra.ai, CrewAI
-- Backend : Nest.js, GraphQL, typeorm, express.js
-- Frontend : react.js, next.js, hooks, react-query
-- DevOps : AWS (EC2, ECS, Lambda, Cloudfront, RDS, ...), Heroku, Netlify, ...
-- Security (mobile and iot device security) and Blockchain (bitcoin, etherium), ...
+- Language : TypeScript, JavaScript, Python
+- Architecture : Clean Architecture, Domain-Driven Design (DDD), Design Patterns
+- AI : AI Agents, LangChain, LangGraph, Mastra.ai
+- Backend : Nest.js, GraphQL, TypeORM, Express.js
+- Frontend : React.js, Next.js, hooks, React Query
+- DevOps : AWS (EC2, ECS, Lambda, CloudFront, RDS, ...), Heroku, Netlify
 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
