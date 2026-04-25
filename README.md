@@ -10,22 +10,10 @@ TypeScript fullstack developer : backend-focused, frontend-curious.
 
 ### Languages and Tools
 
-**Language** — TypeScript, JavaScript, Python
+- **Language**: TypeScript, JavaScript, Python
+- **Backend**: Nest.js, GraphQL, Prisma, PostgreSQL, MongoDB, Redis
+- **Frontend**: React.js, Next.js, React Native, Tanstack Query, Redux
+- **AI**: AI Agents, LangChain, LangGraph, Claude Code, Codex
+- **Infra**: AWS (EC2, ECS, Lambda, CloudFront, RDS), GCP, Firebase
 
-[![Language](https://skillicons.dev/icons?i=ts,js,python)](https://skillicons.dev)
-
-**Backend** — Nest.js, Express.js, GraphQL, TypeORM, MySQL, MongoDB, PostgreSQL, Redis
-
-[![Backend](https://skillicons.dev/icons?i=nestjs,express,graphql,mysql,mongodb,postgres,redis)](https://skillicons.dev)
-
-**Frontend** — React.js, Next.js, React Query, Redux, React Native
-
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,redux)](https://skillicons.dev)
-
-**AI** — AI Agents, LangChain, LangGraph, Mastra.ai, Claude code, Codex
-
-<a href="https://www.langchain.com/"><img src="./assets/ai-icons.svg" alt="LangChain, Claude" height="48"/></a>
-
-**Infra** — AWS (EC2, ECS, Lambda, CloudFront, RDS), Heroku, Netlify, Docker, GCP, Firebase
-
-[![Infra](https://skillicons.dev/icons?i=aws,heroku,netlify,docker,gcp,firebase)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ts,js,nestjs,react,aws,gcp)](https://skillicons.dev)
