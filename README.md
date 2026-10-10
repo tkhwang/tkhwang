@@ -2,7 +2,7 @@
 
 I like building small, useful products that turn messy workflows into focused tools.
 
-Creator of [**Tasteful Intent**](https://github.com/tkhwang/tasteful-intent) and [**Workbranch**](https://github.com/tkhwang/workbranch).
+Creator of [**Workbranch**](https://github.com/tkhwang/workbranch), [**Tasteful Intent**](https://github.com/tkhwang/tasteful-intent), and [**Skills**](https://github.com/tkhwang/skills).
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -10,8 +10,9 @@ Creator of [**Tasteful Intent**](https://github.com/tkhwang/tasteful-intent) and
 
 **Products**
 
+• [Workbranch](https://github.com/tkhwang/workbranch) - Task-based Git worktrees, made easy.<br>
 • [Tasteful Intent](https://github.com/tkhwang/tasteful-intent) - Write your intent first, a minimal local-first Markdown memo app.<br>
-• [Workbranch](https://github.com/tkhwang/workbranch) - Task-based Git worktrees, made easy.
+• [Skills](https://github.com/tkhwang/skills) - Personal agent skills.
 
 </td>
 <td width="600px" valign="top">
