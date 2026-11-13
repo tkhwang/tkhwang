@@ -12,7 +12,8 @@ Creator of [**Workbranch**](https://github.com/tkhwang/workbranch), [**Tasteful 
 
 • [Workbranch](https://github.com/tkhwang/workbranch) - Task-based Git worktrees, made easy.<br>
 • [Tasteful Intent](https://github.com/tkhwang/tasteful-intent) - Write your intent first, a minimal local-first Markdown memo app.<br>
-• [Skills](https://github.com/tkhwang/skills) - Personal agent skills.
+• [Skills](https://github.com/tkhwang/skills) - Personal agent skills.<br>
+• [Herdr Mods](https://github.com/tkhwang/tkhwang-herdr-mods) - One window for every agent, my Herdr layout and mods kept as files.
 
 </td>
 <td width="600px" valign="top">
