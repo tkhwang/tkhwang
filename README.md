@@ -2,8 +2,6 @@
 
 I like building small, useful products that turn messy workflows into focused tools.
 
-Creator of [**Workbranch**](https://github.com/tkhwang/workbranch), [**Tasteful Intent**](https://github.com/tkhwang/tasteful-intent), and [**Skills**](https://github.com/tkhwang/skills).
-
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
 <td width="600px" valign="top">
