@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" alt="Hi" /> Hey World! I'm **tkhwang**, a product-minded full-stack developer working with **TypeScript, NestJS, and React**.
 
-I like building small, useful products that turn messy workflows into focused tools.
+I like building small, useful products that turn messy workflows into focused tools. These days, most of them are for working with AI agents.
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
